@@ -1,0 +1,15 @@
+// Import things here
+div.container {
+  border: 2px solid black;
+  width: 90vw;
+  margin: 0 auto;
+}
+
+div.row {
+  display: flex;
+}
+
+img {
+  flex: 1 1 0;
+  width: 1px;
+}
